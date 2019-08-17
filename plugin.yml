@@ -1,8 +1,9 @@
 name: TNTTracker
 version: 2.0
-main: de.jab_1305.main.Main
+main: de.jab_1305.main.Main2
 author: JAB_1305
 description: Test
+api-version: 1.14
 commands:
    aktivieren:
       usage: /aktivieren
