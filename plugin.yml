@@ -1,0 +1,9 @@
+name: TNTTracker
+version: 2.0
+main: de.jab_1305.main.Main
+author: JAB_1305
+description: Test
+commands:
+   aktivieren:
+      usage: /aktivieren
+      description: Aktiviert nix!
