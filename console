@@ -1,94 +1,85 @@
-[22:05:44 INFO]: Silverturtle07 issued server command: /rl confirm
-[22:05:44 INFO]: Silverturtle07: Please note that this command is not supported and may cause issues when using some plugins.
-[22:05:44 INFO]: Silverturtle07: If you encounter any issues please use the /stop command to restart your server.
-[22:05:44 INFO]: Server Ping Player Sample Count: 12
-[22:05:44 INFO]: Using 4 threads for Netty based IO
-[22:05:44 INFO]: Debug logging is disabled
-[22:05:44 INFO]: -------- World Settings For [world] --------
-[22:05:44 INFO]: Experience Merge Radius: 3.0
-[22:05:44 INFO]: Cactus Growth Modifier: 100%
-[22:05:44 INFO]: Cane Growth Modifier: 100%
-[22:05:44 INFO]: Melon Growth Modifier: 100%
-[22:05:44 INFO]: Mushroom Growth Modifier: 100%
-[22:05:44 INFO]: Pumpkin Growth Modifier: 100%
-[22:05:44 INFO]: Sapling Growth Modifier: 100%
-[22:05:44 INFO]: Beetroot Growth Modifier: 100%
-[22:05:44 INFO]: Carrot Growth Modifier: 100%
-[22:05:44 INFO]: Potato Growth Modifier: 100%
-[22:05:44 INFO]: Wheat Growth Modifier: 100%
-[22:05:44 INFO]: NetherWart Growth Modifier: 100%
-[22:05:44 INFO]: Vine Growth Modifier: 100%
-[22:05:44 INFO]: Cocoa Growth Modifier: 100%
-[22:05:44 INFO]: Bamboo Growth Modifier: 100%
-[22:05:44 INFO]: SweetBerry Growth Modifier: 100%
-[22:05:44 INFO]: Kelp Growth Modifier: 100%
-[22:05:44 INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[22:05:44 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[22:05:44 INFO]: Mob Spawn Range: 6
-[22:05:44 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[22:05:44 INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[22:05:44 INFO]: Max TNT Explosions: 100
-[22:05:44 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[22:05:44 INFO]: View Distance: 8
-[22:05:44 INFO]: Arrow Despawn Rate: 1200
-[22:05:44 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[22:05:44 INFO]: Item Despawn Rate: 6000
-[22:05:44 INFO]: Item Merge Radius: 2.5
-[22:05:44 INFO]: Zombie Aggressive Towards Villager: true
-[22:05:44 INFO]: Nerfing mobs spawned from spawners: false
-[22:05:44 INFO]: -------- World Settings For [world_the_end] --------
-[22:05:44 INFO]: Experience Merge Radius: 3.0
-[22:05:44 INFO]: Cactus Growth Modifier: 100%
-[22:05:44 INFO]: Cane Growth Modifier: 100%
-[22:05:44 INFO]: Melon Growth Modifier: 100%
-[22:05:44 INFO]: Mushroom Growth Modifier: 100%
-[22:05:44 INFO]: Pumpkin Growth Modifier: 100%
-[22:05:44 INFO]: Sapling Growth Modifier: 100%
-[22:05:44 INFO]: Beetroot Growth Modifier: 100%
-[22:05:44 INFO]: Carrot Growth Modifier: 100%
-[22:05:44 INFO]: Potato Growth Modifier: 100%
-[22:05:44 INFO]: Wheat Growth Modifier: 100%
-[22:05:44 INFO]: NetherWart Growth Modifier: 100%
-[22:05:44 INFO]: Vine Growth Modifier: 100%
-[22:05:44 INFO]: Cocoa Growth Modifier: 100%
-[22:05:44 INFO]: Bamboo Growth Modifier: 100%
-[22:05:44 INFO]: SweetBerry Growth Modifier: 100%
-[22:05:44 INFO]: Kelp Growth Modifier: 100%
-[22:05:44 INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[22:05:44 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[22:05:44 INFO]: Mob Spawn Range: 6
-[22:05:44 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[22:05:44 INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[22:05:44 INFO]: Max TNT Explosions: 100
-[22:05:44 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[22:05:44 INFO]: View Distance: 8
-[22:05:44 INFO]: Arrow Despawn Rate: 1200
-[22:05:44 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[22:05:44 INFO]: Item Despawn Rate: 6000
-[22:05:44 INFO]: Item Merge Radius: 2.5
-[22:05:44 INFO]: Zombie Aggressive Towards Villager: true
-[22:05:44 INFO]: Nerfing mobs spawned from spawners: false
-[22:05:44 INFO]: [SimpleWarp] Disabling SimpleWarp v1.1
-[22:05:44 INFO]: [WorldEdit] Disabling WorldEdit v7.0.0;214af8a
-[22:05:44 INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[22:05:44 INFO]: [Fernzuendung] Disabling Fernzuendung v2.0
-[22:05:44 INFO]: Reloading ResourceManager: Default, bukkit
-[22:05:45 INFO]: Loaded 6 recipes
-[22:05:45 INFO]: Reloading ResourceManager: Default, bukkit
-[22:05:45 INFO]: Loaded 6 recipes
-[22:05:46 WARN]: Plugin SimpleWarp v1.1 does not specify an api-version.
-[22:05:46 INFO]: [TNTTracker] Loading TNTTracker v2.0
-[22:05:46 INFO]: [WorldEdit] Loading WorldEdit v7.0.0;214af8a
-[22:05:46 INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@4b4ee7c2]
-[22:05:46 INFO]: [SimpleWarp] Loading SimpleWarp v1.1
-[22:05:46 INFO]: [WorldGuard] Loading WorldGuard v7.0.0;02b731f
-[22:05:46 INFO]: Server permissions file permissions.yml is empty, ignoring it
-[22:05:46 INFO]: [WorldEdit] Enabling WorldEdit v7.0.0;214af8a
-[22:05:46 INFO]: WEPIF: Using the Bukkit Permissions API.
-[22:05:46 INFO]: [TNTTracker] Enabling TNTTracker v2.0
-[22:05:46 INFO]: [SimpleWarp] Enabling SimpleWarp v1.1*
-[22:05:46 INFO]: [WorldGuard] Enabling WorldGuard v7.0.0;02b731f
-[22:05:47 ERROR]: Error occurred while enabling WorldGuard v7.0.0;02b731f (Is it up to date?)
+[22:11:44 INFO]: JAB_1305: Reload complete.
+[22:11:44 INFO]: Timings Reset
+[22:11:45 INFO]: JAB_1305 issued server command: /plugins
+[22:11:46 INFO]: Silverturtle07 issued server command: /plugins
+[22:12:02 INFO]: JAB_1305 issued server command: /help Fernzuendung
+[22:12:08 INFO]: JAB_1305 issued server command: /help TNTTracker
+[22:12:11 INFO]: JAB_1305 issued server command: /aktivieren
+[22:11:39 INFO]: Vine Growth Modifier: 100%
+[22:11:39 INFO]: Cocoa Growth Modifier: 100%
+[22:11:39 INFO]: Bamboo Growth Modifier: 100%
+[22:11:39 INFO]: SweetBerry Growth Modifier: 100%
+[22:11:39 INFO]: Kelp Growth Modifier: 100%
+[22:11:39 INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[22:11:39 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:11:39 INFO]: Mob Spawn Range: 6
+[22:11:39 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:11:39 INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[22:11:39 INFO]: Max TNT Explosions: 100
+[22:11:39 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:11:39 INFO]: View Distance: 8
+[22:11:39 INFO]: Arrow Despawn Rate: 1200
+[22:11:39 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:11:39 INFO]: Item Despawn Rate: 6000
+[22:11:39 INFO]: Item Merge Radius: 2.5
+[22:11:39 INFO]: Zombie Aggressive Towards Villager: true
+[22:11:39 INFO]: Nerfing mobs spawned from spawners: false
+[22:11:39 INFO]: -------- World Settings For [world_the_end] --------
+[22:11:39 INFO]: Experience Merge Radius: 3.0
+[22:11:39 INFO]: Cactus Growth Modifier: 100%
+[22:11:39 INFO]: Cane Growth Modifier: 100%
+[22:11:39 INFO]: Melon Growth Modifier: 100%
+[22:11:39 INFO]: Mushroom Growth Modifier: 100%
+[22:11:39 INFO]: Pumpkin Growth Modifier: 100%
+[22:11:39 INFO]: Sapling Growth Modifier: 100%
+[22:11:39 INFO]: Beetroot Growth Modifier: 100%
+[22:11:39 INFO]: Carrot Growth Modifier: 100%
+[22:11:39 INFO]: Potato Growth Modifier: 100%
+[22:11:39 INFO]: Wheat Growth Modifier: 100%
+[22:11:39 INFO]: NetherWart Growth Modifier: 100%
+[22:11:39 INFO]: Vine Growth Modifier: 100%
+[22:11:39 INFO]: Cocoa Growth Modifier: 100%
+[22:11:39 INFO]: Bamboo Growth Modifier: 100%
+[22:11:39 INFO]: SweetBerry Growth Modifier: 100%
+[22:11:39 INFO]: Kelp Growth Modifier: 100%
+[22:11:39 INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[22:11:39 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:11:39 INFO]: Mob Spawn Range: 6
+[22:11:39 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:11:39 INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[22:11:39 INFO]: Max TNT Explosions: 100
+[22:11:39 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:11:39 INFO]: View Distance: 8
+[22:11:39 INFO]: Arrow Despawn Rate: 1200
+[22:11:39 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:11:39 INFO]: Item Despawn Rate: 6000
+[22:11:39 INFO]: Item Merge Radius: 2.5
+[22:11:39 INFO]: Zombie Aggressive Towards Villager: true
+[22:11:39 INFO]: Nerfing mobs spawned from spawners: false
+[22:11:39 INFO]: [SimpleWarp] Disabling SimpleWarp v1.1
+[22:11:39 INFO]: [WorldEdit] Disabling WorldEdit v7.0.0;214af8a
+[22:11:39 INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[22:11:39 INFO]: [TNTTracker] Disabling TNTTracker v2.0
+[22:11:40 INFO]: Reloading ResourceManager: Default, bukkit
+[22:11:40 INFO]: Loaded 6 recipes
+[22:11:40 INFO]: Reloading ResourceManager: Default, bukkit
+[22:11:40 INFO]: Loaded 6 recipes
+[22:11:41 WARN]: Plugin Fernzuendung v2.0 does not specify an api-version.
+[22:11:41 WARN]: Plugin SimpleWarp v1.1 does not specify an api-version.
+[22:11:41 INFO]: [Fernzuendung] Loading Fernzuendung v2.0
+[22:11:41 INFO]: [TNTTracker] Loading TNTTracker v2.0
+[22:11:41 INFO]: [WorldEdit] Loading WorldEdit v7.0.0;214af8a
+[22:11:44 INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@3671c962]
+[22:11:44 INFO]: [SimpleWarp] Loading SimpleWarp v1.1
+[22:11:44 INFO]: [WorldGuard] Loading WorldGuard v7.0.0;02b731f
+[22:11:44 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:11:44 INFO]: [WorldEdit] Enabling WorldEdit v7.0.0;214af8a
+[22:11:44 INFO]: WEPIF: Using the Bukkit Permissions API.
+[22:11:44 INFO]: [Fernzuendung] Enabling Fernzuendung v2.0*
+[22:11:44 INFO]: [TNTTracker] Enabling TNTTracker v2.0
+[22:11:44 INFO]: [SimpleWarp] Enabling SimpleWarp v1.1*
+[22:11:44 INFO]: [WorldGuard] Enabling WorldGuard v7.0.0;02b731f
+[22:11:44 ERROR]: Error occurred while enabling WorldGuard v7.0.0;02b731f (Is it up to date?)
 java.lang.NullPointerException: null
 at com.sk89q.worldguard.bukkit.BukkitWorldConfiguration.loadConfiguration(BukkitWorldConfiguration.java:259) ~[?:?]
 at com.sk89q.worldguard.bukkit.BukkitWorldConfiguration.<init>(BukkitWorldConfiguration.java:94) ~[?:?]
@@ -123,9 +114,9 @@ at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.
 at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:989) ~[patched_1.14.4.jar:git-Paper-172]
 at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:922) ~[patched_1.14.4.jar:git-Paper-172]
 at java.lang.Thread.run(Thread.java:748) [?:1.8.0_171]
-[22:05:47 INFO]: [WorldGuard] Disabling WorldGuard v7.0.0;02b731f
-[22:05:47 INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
-[22:05:47 ERROR]: Error occurred while disabling WorldGuard v7.0.0;02b731f (Is it up to date?)
+[22:11:44 INFO]: [WorldGuard] Disabling WorldGuard v7.0.0;02b731f
+[22:11:44 INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[22:11:44 ERROR]: Error occurred while disabling WorldGuard v7.0.0;02b731f (Is it up to date?)
 java.lang.NullPointerException: null
 at com.sk89q.worldguard.bukkit.BukkitWorldGuardPlatform.unload(BukkitWorldGuardPlatform.java:133) ~[?:?]
 at com.sk89q.worldguard.WorldGuard.disable(WorldGuard.java:212) ~[?:?]
@@ -157,6 +148,10 @@ at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.
 at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:989) ~[patched_1.14.4.jar:git-Paper-172]
 at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:922) ~[patched_1.14.4.jar:git-Paper-172]
 at java.lang.Thread.run(Thread.java:748) [?:1.8.0_171]
-[22:05:47 INFO]: Silverturtle07: Reload complete.
-[22:05:47 INFO]: Timings Reset
-[22:05:47 INFO]: Silverturtle07 issued server command: /plugins
+[22:11:44 INFO]: JAB_1305: Reload complete.
+[22:11:44 INFO]: Timings Reset
+[22:11:45 INFO]: JAB_1305 issued server command: /plugins
+[22:11:46 INFO]: Silverturtle07 issued server command: /plugins
+[22:12:02 INFO]: JAB_1305 issued server command: /help Fernzuendung
+[22:12:08 INFO]: JAB_1305 issued server command: /help TNTTracker
+[22:12:11 INFO]: JAB_1305 issued server command: /aktivieren
