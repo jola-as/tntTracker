@@ -1,81 +1,5 @@
-[21:47:52 INFO]: JAB_1305: If you encounter any issues please use the /stop command to restart your server.
-[21:47:52 INFO]: Server Ping Player Sample Count: 12
-[21:47:52 INFO]: Using 4 threads for Netty based IO
-[21:47:52 INFO]: Debug logging is disabled
-[21:47:52 INFO]: -------- World Settings For [world] --------
-[21:47:52 INFO]: Experience Merge Radius: 3.0
-[21:47:52 INFO]: Mob Spawn Range: 6
-[21:47:52 INFO]: Cactus Growth Modifier: 100%
-[21:47:52 INFO]: Cane Growth Modifier: 100%
-[21:47:52 INFO]: Melon Growth Modifier: 100%
-[21:47:52 INFO]: Mushroom Growth Modifier: 100%
-[21:47:52 INFO]: Pumpkin Growth Modifier: 100%
-[21:47:52 INFO]: Sapling Growth Modifier: 100%
-[21:47:52 INFO]: Beetroot Growth Modifier: 100%
-[21:47:52 INFO]: Carrot Growth Modifier: 100%
-[21:47:52 INFO]: Potato Growth Modifier: 100%
-[21:47:52 INFO]: Wheat Growth Modifier: 100%
-[21:47:52 INFO]: NetherWart Growth Modifier: 100%
-[21:47:52 INFO]: Vine Growth Modifier: 100%
-[21:47:52 INFO]: Cocoa Growth Modifier: 100%
-[21:47:52 INFO]: Bamboo Growth Modifier: 100%
-[21:47:52 INFO]: SweetBerry Growth Modifier: 100%
-[21:47:52 INFO]: Kelp Growth Modifier: 100%
-[21:47:52 INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[21:47:52 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[21:47:52 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[21:47:52 INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[21:47:52 INFO]: Max TNT Explosions: 100
-[21:47:52 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[21:47:52 INFO]: View Distance: 8
-[21:47:52 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[21:47:52 INFO]: Item Merge Radius: 2.5
-[21:47:52 INFO]: Item Despawn Rate: 6000
-[21:47:52 INFO]: Arrow Despawn Rate: 1200
-[21:47:52 INFO]: Zombie Aggressive Towards Villager: true
-[21:47:52 INFO]: Nerfing mobs spawned from spawners: false
-[21:47:52 INFO]: -------- World Settings For [world_the_end] --------
-[21:47:52 INFO]: Experience Merge Radius: 3.0
-[21:47:52 INFO]: Mob Spawn Range: 6
-[21:47:52 INFO]: Cactus Growth Modifier: 100%
-[21:47:52 INFO]: Cane Growth Modifier: 100%
-[21:47:52 INFO]: Melon Growth Modifier: 100%
-[21:47:52 INFO]: Mushroom Growth Modifier: 100%
-[21:47:52 INFO]: Pumpkin Growth Modifier: 100%
-[21:47:52 INFO]: Sapling Growth Modifier: 100%
-[21:47:52 INFO]: Beetroot Growth Modifier: 100%
-[21:47:52 INFO]: Carrot Growth Modifier: 100%
-[21:47:52 INFO]: Potato Growth Modifier: 100%
-[21:47:52 INFO]: Wheat Growth Modifier: 100%
-[21:47:52 INFO]: NetherWart Growth Modifier: 100%
-[21:47:52 INFO]: Vine Growth Modifier: 100%
-[21:47:52 INFO]: Cocoa Growth Modifier: 100%
-[21:47:52 INFO]: Bamboo Growth Modifier: 100%
-[21:47:52 INFO]: SweetBerry Growth Modifier: 100%
-[21:47:52 INFO]: Kelp Growth Modifier: 100%
-[21:47:52 INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[21:47:52 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[21:47:52 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[21:47:52 INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[21:47:52 INFO]: Max TNT Explosions: 100
-[21:47:52 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[21:47:52 INFO]: View Distance: 8
-[21:47:52 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[21:47:52 INFO]: Item Merge Radius: 2.5
-[21:47:52 INFO]: Item Despawn Rate: 6000
-[21:47:52 INFO]: Arrow Despawn Rate: 1200
-[21:47:52 INFO]: Zombie Aggressive Towards Villager: true
-[21:47:52 INFO]: Nerfing mobs spawned from spawners: false
-[21:47:52 INFO]: [SimpleWarp] Disabling SimpleWarp v1.1
-[21:47:52 INFO]: [WorldEdit] Disabling WorldEdit v7.0.0;214af8a
-[21:47:52 INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[21:47:52 INFO]: [Fernzuendung] Disabling Fernzuendung v2.0
-[21:47:52 INFO]: Reloading ResourceManager: Default, bukkit
-[21:47:52 INFO]: Loaded 6 recipes
-[21:47:52 INFO]: Reloading ResourceManager: Default, bukkit
-[21:47:52 INFO]: Loaded 6 recipes
-[21:47:52 WARN]: Plugin Fernzuendung v2.0 does not specify an api-version.
-[21:47:52 ERROR]: Could not load 'plugins/TNTTracker.jar' in folder 'plugins'
+[21:56:47 WARN]: Plugin Fernzuendung v2.0 does not specify an api-version.
+[21:56:47 ERROR]: Could not load 'plugins/TNTTracker.jar' in folder 'plugins'
 org.bukkit.plugin.InvalidPluginException: java.lang.IllegalArgumentException: Plugin already initialized!
 at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:138) ~[patched_1.14.4.jar:git-Paper-172]
 at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:337) ~[patched_1.14.4.jar:git-Paper-172]
@@ -125,27 +49,27 @@ at java.lang.Class.newInstance(Class.java:442) ~[?:1.8.0_171]
 at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:75) ~[patched_1.14.4.jar:git-Paper-172]
 at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:134) ~[patched_1.14.4.jar:git-Paper-172]
 ... 23 more
-[21:47:52 WARN]: Plugin SimpleWarp v1.1 does not specify an api-version.
-[21:47:52 INFO]: [Fernzuendung] Loading Fernzuendung v2.0
-[21:47:52 INFO]: [WorldEdit] Loading WorldEdit v7.0.0;214af8a
-[21:47:53 INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@75f11ed4]
-[21:47:53 INFO]: [SimpleWarp] Loading SimpleWarp v1.1
-[21:47:53 INFO]: [WorldGuard] Loading WorldGuard v7.0.0;02b731f
-[21:47:53 INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:47:53 INFO]: [WorldEdit] Enabling WorldEdit v7.0.0;214af8a
-[21:47:53 INFO]: WEPIF: Using the Bukkit Permissions API.
-[21:47:53 INFO]: [Fernzuendung] Enabling Fernzuendung v2.0*
-[21:47:53 INFO]: [SimpleWarp] Enabling SimpleWarp v1.1*
-[21:47:53 INFO]: [WorldGuard] Enabling WorldGuard v7.0.0;02b731f
-[21:47:53 ERROR]: Error occurred while enabling WorldGuard v7.0.0;02b731f (Is it up to date?)
+[21:56:47 WARN]: Plugin SimpleWarp v1.1 does not specify an api-version.
+[21:56:47 INFO]: [Fernzuendung] Loading Fernzuendung v2.0
+[21:56:47 INFO]: [WorldEdit] Loading WorldEdit v7.0.0;214af8a
+[21:56:48 INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@15e55bc4]
+[21:56:48 INFO]: [SimpleWarp] Loading SimpleWarp v1.1
+[21:56:48 INFO]: [WorldGuard] Loading WorldGuard v7.0.1-SNAPSHOT;556b638
+[21:56:48 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:56:48 INFO]: [WorldEdit] Enabling WorldEdit v7.0.0;214af8a
+[21:56:48 INFO]: WEPIF: Using the Bukkit Permissions API.
+[21:56:48 INFO]: [Fernzuendung] Enabling Fernzuendung v2.0*
+[21:56:48 INFO]: [SimpleWarp] Enabling SimpleWarp v1.1*
+[21:56:48 INFO]: [WorldGuard] Enabling WorldGuard v7.0.1-SNAPSHOT;556b638
+[21:56:49 ERROR]: Error occurred while enabling WorldGuard v7.0.1-SNAPSHOT;556b638 (Is it up to date?)
 java.lang.NullPointerException: null
-at com.sk89q.worldguard.bukkit.BukkitWorldConfiguration.loadConfiguration(BukkitWorldConfiguration.java:259) ~[?:?]
-at com.sk89q.worldguard.bukkit.BukkitWorldConfiguration.<init>(BukkitWorldConfiguration.java:94) ~[?:?]
-at com.sk89q.worldguard.bukkit.BukkitConfigurationManager.get(BukkitConfigurationManager.java:87) ~[?:?]
+at com.sk89q.worldguard.bukkit.BukkitWorldConfiguration.loadConfiguration(BukkitWorldConfiguration.java:264) ~[?:?]
+at com.sk89q.worldguard.bukkit.BukkitWorldConfiguration.<init>(BukkitWorldConfiguration.java:95) ~[?:?]
+at com.sk89q.worldguard.bukkit.BukkitConfigurationManager.get(BukkitConfigurationManager.java:88) ~[?:?]
 at com.sk89q.worldguard.bukkit.BukkitConfigurationManager.postLoad(BukkitConfigurationManager.java:69) ~[?:?]
 at com.sk89q.worldguard.config.YamlConfigurationManager.load(YamlConfigurationManager.java:103) ~[?:?]
-at com.sk89q.worldguard.bukkit.BukkitWorldGuardPlatform.load(BukkitWorldGuardPlatform.java:124) ~[?:?]
-at com.sk89q.worldguard.WorldGuard.setup(WorldGuard.java:98) ~[?:?]
+at com.sk89q.worldguard.bukkit.BukkitWorldGuardPlatform.load(BukkitWorldGuardPlatform.java:133) ~[?:?]
+at com.sk89q.worldguard.WorldGuard.setup(WorldGuard.java:91) ~[?:?]
 at com.sk89q.worldguard.bukkit.WorldGuardPlugin.onEnable(WorldGuardPlugin.java:135) ~[?:?]
 at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[patched_1.14.4.jar:git-Paper-172]
 at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:338) ~[patched_1.14.4.jar:git-Paper-172]
@@ -172,12 +96,12 @@ at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.
 at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:989) ~[patched_1.14.4.jar:git-Paper-172]
 at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:922) ~[patched_1.14.4.jar:git-Paper-172]
 at java.lang.Thread.run(Thread.java:748) [?:1.8.0_171]
-[21:47:53 INFO]: [WorldGuard] Disabling WorldGuard v7.0.0;02b731f
-[21:47:53 INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
-[21:47:53 ERROR]: Error occurred while disabling WorldGuard v7.0.0;02b731f (Is it up to date?)
+[21:56:49 INFO]: [WorldGuard] Disabling WorldGuard v7.0.1-SNAPSHOT;556b638
+[21:56:49 INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[21:56:49 ERROR]: Error occurred while disabling WorldGuard v7.0.1-SNAPSHOT;556b638 (Is it up to date?)
 java.lang.NullPointerException: null
-at com.sk89q.worldguard.bukkit.BukkitWorldGuardPlatform.unload(BukkitWorldGuardPlatform.java:133) ~[?:?]
-at com.sk89q.worldguard.WorldGuard.disable(WorldGuard.java:212) ~[?:?]
+at com.sk89q.worldguard.bukkit.BukkitWorldGuardPlatform.unload(BukkitWorldGuardPlatform.java:142) ~[?:?]
+at com.sk89q.worldguard.WorldGuard.disable(WorldGuard.java:205) ~[?:?]
 at com.sk89q.worldguard.bukkit.WorldGuardPlugin.onDisable(WorldGuardPlugin.java:213) ~[?:?]
 at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265) ~[patched_1.14.4.jar:git-Paper-172]
 at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:373) ~[patched_1.14.4.jar:git-Paper-172]
@@ -206,26 +130,26 @@ at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.
 at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:989) ~[patched_1.14.4.jar:git-Paper-172]
 at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:922) ~[patched_1.14.4.jar:git-Paper-172]
 at java.lang.Thread.run(Thread.java:748) [?:1.8.0_171]
-[21:47:53 INFO]: JAB_1305: Reload complete.
-[21:47:53 INFO]: Timings Reset
-[21:47:52 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[21:47:52 INFO]: View Distance: 8
-[21:47:52 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[21:47:52 INFO]: Item Merge Radius: 2.5
-[21:47:52 INFO]: Item Despawn Rate: 6000
-[21:47:52 INFO]: Arrow Despawn Rate: 1200
-[21:47:52 INFO]: Zombie Aggressive Towards Villager: true
-[21:47:52 INFO]: Nerfing mobs spawned from spawners: false
-[21:47:52 INFO]: [SimpleWarp] Disabling SimpleWarp v1.1
-[21:47:52 INFO]: [WorldEdit] Disabling WorldEdit v7.0.0;214af8a
-[21:47:52 INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[21:47:52 INFO]: [Fernzuendung] Disabling Fernzuendung v2.0
-[21:47:52 INFO]: Reloading ResourceManager: Default, bukkit
-[21:47:52 INFO]: Loaded 6 recipes
-[21:47:52 INFO]: Reloading ResourceManager: Default, bukkit
-[21:47:52 INFO]: Loaded 6 recipes
-[21:47:52 WARN]: Plugin Fernzuendung v2.0 does not specify an api-version.
-[21:47:52 ERROR]: Could not load 'plugins/TNTTracker.jar' in folder 'plugins'
+[21:56:49 INFO]: Silverturtle07: Reload complete.
+[21:56:49 INFO]: Timings Reset
+[21:56:44 INFO]: Arrow Despawn Rate: 1200
+[21:56:44 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:56:44 INFO]: Item Despawn Rate: 6000
+[21:56:44 INFO]: Item Merge Radius: 2.5
+[21:56:44 INFO]: Zombie Aggressive Towards Villager: true
+[21:56:44 INFO]: Nerfing mobs spawned from spawners: false
+[21:56:44 INFO]: [WorldGuard] Disabling WorldGuard v7.0.1-SNAPSHOT;556b638
+[21:56:44 INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[21:56:45 INFO]: [SimpleWarp] Disabling SimpleWarp v1.1
+[21:56:45 INFO]: [WorldEdit] Disabling WorldEdit v7.0.0;214af8a
+[21:56:45 INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[21:56:45 INFO]: [Fernzuendung] Disabling Fernzuendung v2.0
+[21:56:45 INFO]: Reloading ResourceManager: Default, bukkit
+[21:56:45 INFO]: Loaded 6 recipes
+[21:56:46 INFO]: Reloading ResourceManager: Default, bukkit
+[21:56:47 INFO]: Loaded 6 recipes
+[21:56:47 WARN]: Plugin Fernzuendung v2.0 does not specify an api-version.
+[21:56:47 ERROR]: Could not load 'plugins/TNTTracker.jar' in folder 'plugins'
 org.bukkit.plugin.InvalidPluginException: java.lang.IllegalArgumentException: Plugin already initialized!
 at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:138) ~[patched_1.14.4.jar:git-Paper-172]
 at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:337) ~[patched_1.14.4.jar:git-Paper-172]
@@ -275,27 +199,27 @@ at java.lang.Class.newInstance(Class.java:442) ~[?:1.8.0_171]
 at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:75) ~[patched_1.14.4.jar:git-Paper-172]
 at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:134) ~[patched_1.14.4.jar:git-Paper-172]
 ... 23 more
-[21:47:52 WARN]: Plugin SimpleWarp v1.1 does not specify an api-version.
-[21:47:52 INFO]: [Fernzuendung] Loading Fernzuendung v2.0
-[21:47:52 INFO]: [WorldEdit] Loading WorldEdit v7.0.0;214af8a
-[21:47:53 INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@75f11ed4]
-[21:47:53 INFO]: [SimpleWarp] Loading SimpleWarp v1.1
-[21:47:53 INFO]: [WorldGuard] Loading WorldGuard v7.0.0;02b731f
-[21:47:53 INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:47:53 INFO]: [WorldEdit] Enabling WorldEdit v7.0.0;214af8a
-[21:47:53 INFO]: WEPIF: Using the Bukkit Permissions API.
-[21:47:53 INFO]: [Fernzuendung] Enabling Fernzuendung v2.0*
-[21:47:53 INFO]: [SimpleWarp] Enabling SimpleWarp v1.1*
-[21:47:53 INFO]: [WorldGuard] Enabling WorldGuard v7.0.0;02b731f
-[21:47:53 ERROR]: Error occurred while enabling WorldGuard v7.0.0;02b731f (Is it up to date?)
+[21:56:47 WARN]: Plugin SimpleWarp v1.1 does not specify an api-version.
+[21:56:47 INFO]: [Fernzuendung] Loading Fernzuendung v2.0
+[21:56:47 INFO]: [WorldEdit] Loading WorldEdit v7.0.0;214af8a
+[21:56:48 INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@15e55bc4]
+[21:56:48 INFO]: [SimpleWarp] Loading SimpleWarp v1.1
+[21:56:48 INFO]: [WorldGuard] Loading WorldGuard v7.0.1-SNAPSHOT;556b638
+[21:56:48 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:56:48 INFO]: [WorldEdit] Enabling WorldEdit v7.0.0;214af8a
+[21:56:48 INFO]: WEPIF: Using the Bukkit Permissions API.
+[21:56:48 INFO]: [Fernzuendung] Enabling Fernzuendung v2.0*
+[21:56:48 INFO]: [SimpleWarp] Enabling SimpleWarp v1.1*
+[21:56:48 INFO]: [WorldGuard] Enabling WorldGuard v7.0.1-SNAPSHOT;556b638
+[21:56:49 ERROR]: Error occurred while enabling WorldGuard v7.0.1-SNAPSHOT;556b638 (Is it up to date?)
 java.lang.NullPointerException: null
-at com.sk89q.worldguard.bukkit.BukkitWorldConfiguration.loadConfiguration(BukkitWorldConfiguration.java:259) ~[?:?]
-at com.sk89q.worldguard.bukkit.BukkitWorldConfiguration.<init>(BukkitWorldConfiguration.java:94) ~[?:?]
-at com.sk89q.worldguard.bukkit.BukkitConfigurationManager.get(BukkitConfigurationManager.java:87) ~[?:?]
+at com.sk89q.worldguard.bukkit.BukkitWorldConfiguration.loadConfiguration(BukkitWorldConfiguration.java:264) ~[?:?]
+at com.sk89q.worldguard.bukkit.BukkitWorldConfiguration.<init>(BukkitWorldConfiguration.java:95) ~[?:?]
+at com.sk89q.worldguard.bukkit.BukkitConfigurationManager.get(BukkitConfigurationManager.java:88) ~[?:?]
 at com.sk89q.worldguard.bukkit.BukkitConfigurationManager.postLoad(BukkitConfigurationManager.java:69) ~[?:?]
 at com.sk89q.worldguard.config.YamlConfigurationManager.load(YamlConfigurationManager.java:103) ~[?:?]
-at com.sk89q.worldguard.bukkit.BukkitWorldGuardPlatform.load(BukkitWorldGuardPlatform.java:124) ~[?:?]
-at com.sk89q.worldguard.WorldGuard.setup(WorldGuard.java:98) ~[?:?]
+at com.sk89q.worldguard.bukkit.BukkitWorldGuardPlatform.load(BukkitWorldGuardPlatform.java:133) ~[?:?]
+at com.sk89q.worldguard.WorldGuard.setup(WorldGuard.java:91) ~[?:?]
 at com.sk89q.worldguard.bukkit.WorldGuardPlugin.onEnable(WorldGuardPlugin.java:135) ~[?:?]
 at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[patched_1.14.4.jar:git-Paper-172]
 at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:338) ~[patched_1.14.4.jar:git-Paper-172]
@@ -322,12 +246,12 @@ at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.
 at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:989) ~[patched_1.14.4.jar:git-Paper-172]
 at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:922) ~[patched_1.14.4.jar:git-Paper-172]
 at java.lang.Thread.run(Thread.java:748) [?:1.8.0_171]
-[21:47:53 INFO]: [WorldGuard] Disabling WorldGuard v7.0.0;02b731f
-[21:47:53 INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
-[21:47:53 ERROR]: Error occurred while disabling WorldGuard v7.0.0;02b731f (Is it up to date?)
+[21:56:49 INFO]: [WorldGuard] Disabling WorldGuard v7.0.1-SNAPSHOT;556b638
+[21:56:49 INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[21:56:49 ERROR]: Error occurred while disabling WorldGuard v7.0.1-SNAPSHOT;556b638 (Is it up to date?)
 java.lang.NullPointerException: null
-at com.sk89q.worldguard.bukkit.BukkitWorldGuardPlatform.unload(BukkitWorldGuardPlatform.java:133) ~[?:?]
-at com.sk89q.worldguard.WorldGuard.disable(WorldGuard.java:212) ~[?:?]
+at com.sk89q.worldguard.bukkit.BukkitWorldGuardPlatform.unload(BukkitWorldGuardPlatform.java:142) ~[?:?]
+at com.sk89q.worldguard.WorldGuard.disable(WorldGuard.java:205) ~[?:?]
 at com.sk89q.worldguard.bukkit.WorldGuardPlugin.onDisable(WorldGuardPlugin.java:213) ~[?:?]
 at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265) ~[patched_1.14.4.jar:git-Paper-172]
 at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:373) ~[patched_1.14.4.jar:git-Paper-172]
@@ -356,5 +280,5 @@ at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.
 at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:989) ~[patched_1.14.4.jar:git-Paper-172]
 at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:922) ~[patched_1.14.4.jar:git-Paper-172]
 at java.lang.Thread.run(Thread.java:748) [?:1.8.0_171]
-[21:47:53 INFO]: JAB_1305: Reload complete.
-[21:47:53 INFO]: Timings Reset
+[21:56:49 INFO]: Silverturtle07: Reload complete.
+[21:56:49 INFO]: Timings Reset
