@@ -13,14 +13,19 @@ import org.bukkit.entity.Player;
 
 public class aktivieren implements CommandExecutor{
 
-	@Override
+	
 	public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
 		if(sender instanceof Player ) {
 			Player p = (Player) sender;
 			p.sendMessage("Test");
-			World w = p.getWorld();
-			List<Entity> l =w.getEntities();
-			System.out.println(l);
+			World currentW = p.getWorld();
+			List<Entity> LEntities =currentW.getEntities();
+			System.out.println(LEntities);
+			if(LEntities.contains("CraftTNTPrimed")) {
+				p.sendMessage("TNT gefunden");
+				
+				
+			}
 		}
 		
 		return false;
