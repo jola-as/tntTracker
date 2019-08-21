@@ -25,9 +25,14 @@ public class aktivieren implements CommandExecutor{
 			System.out.println(LEntities);
 			List<Entity> LTnt = new ArrayList<Entity>();
 			for (int i=0; i<LEntities.size(); i++) {
-				if(LEntities.get(i).getName() == "CraftTNTPrimed") {
+				System.out.println("Test2");
+				System.out.println(LEntities.get(i));
+				System.out.println(LEntities.get(i).getName());
+				if(LEntities.get(i).getName() == "Primed TNT") {
 					//LTnt.add(LEntities.get(i));
-					System.out.println(LEntities.get(i));
+					//p.sendMessage(LEntities.get(i).getName());
+					//System.out.println(LEntities.get(i));
+					System.out.println("Test3");
 				}
 			}
 			if (LTnt.size()!= 0) {
