@@ -22,7 +22,7 @@ public class aktivieren implements CommandExecutor{
 			World currentW = p.getWorld();
 			List<Entity> LEntities =currentW.getEntities();
 			System.out.println(LEntities);
-			List<Entity> LTnt = null;
+			List<Entity> LTnt = new ArrayList<Entity>;
 			for (int i=0; i<LEntities.size(); i++) {
 				if(LEntities.get(i).getName() == "CraftTNTPrimed") {
 					//LTnt.add(LEntities.get(i));
