@@ -27,8 +27,7 @@ public class aktivieren implements CommandExecutor{
 			for (int i=0; i<LEntities.size(); i++) {
 				if(LEntities.get(i).getName() == "CraftTNTPrimed") {
 					//LTnt.add(LEntities.get(i));
-					p.sendMessage(LEntities.get(i).getName());
-					System.out.println();
+					System.out.println(LEntities.get(i));
 				}
 			}
 			if (LTnt.size()!= 0) {
