@@ -28,7 +28,9 @@ public class aktivieren implements CommandExecutor{
 					LTnt.add(LEntities.get(i));
 				}
 			}
-			System.out.println(LTnt);
+			if (LTnt.size()!= 0) {
+				System.out.println(LTnt);
+			}
 		}
 		return true;
 	}
