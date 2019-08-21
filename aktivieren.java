@@ -1,8 +1,9 @@
 package de.jab_1305.commands;
 
+import java.util.ArrayList;
 import java.util.List;
 
-import org.bukkit.Location;
+
 import org.bukkit.World;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
@@ -22,11 +23,12 @@ public class aktivieren implements CommandExecutor{
 			World currentW = p.getWorld();
 			List<Entity> LEntities =currentW.getEntities();
 			System.out.println(LEntities);
-			List<Entity> LTnt = new ArrayList<Entity>;
+			List<Entity> LTnt = new ArrayList<Entity>();
 			for (int i=0; i<LEntities.size(); i++) {
 				if(LEntities.get(i).getName() == "CraftTNTPrimed") {
 					//LTnt.add(LEntities.get(i));
-					p.sendmessage(LEntities.get(i));
+					p.sendMessage(LEntities.get(i).getName());
+					System.out.println();
 				}
 			}
 			if (LTnt.size()!= 0) {
