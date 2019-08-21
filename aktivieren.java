@@ -25,12 +25,13 @@ public class aktivieren implements CommandExecutor{
 			for (int i=0; i<LEntities.size(); i++) {
 				if(LEntities.contains("CraftTNTPrimed")) {
 					p.sendMessage("TNT gefunden");
-					LTnt.add()
+					LTnt.add(LEntities.get(i))
 				}
 			
 
 				
 			}
+			System.out.println(LTnt)
 		}
 		
 		return false;
